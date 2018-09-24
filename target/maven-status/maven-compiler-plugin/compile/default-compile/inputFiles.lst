@@ -1,0 +1,7 @@
+/home/omidp/workspace-sts/grpc/src/main/java/com/omidbiz/grpc/HelloWorldServer.java
+/home/omidp/workspace-sts/grpc/target/generated-sources/protobuf/java/com/omidbiz/grpc/HelloRequestOrBuilder.java
+/home/omidp/workspace-sts/grpc/target/generated-sources/protobuf/java/com/omidbiz/grpc/HelloReply.java
+/home/omidp/workspace-sts/grpc/target/generated-sources/protobuf/java/com/omidbiz/grpc/HelloWorldProto.java
+/home/omidp/workspace-sts/grpc/target/generated-sources/protobuf/grpc-java/com/omidbiz/grpc/GreeterGrpc.java
+/home/omidp/workspace-sts/grpc/target/generated-sources/protobuf/java/com/omidbiz/grpc/HelloRequest.java
+/home/omidp/workspace-sts/grpc/target/generated-sources/protobuf/java/com/omidbiz/grpc/HelloReplyOrBuilder.java
